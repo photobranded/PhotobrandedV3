@@ -314,8 +314,8 @@ p {
 .logo-dark,
 .logo-light {
     position: absolute;
-    width: 250%;
-    height: 250%;
+    width: 150%;
+    height: 150%;
     opacity: 0;
     transition: opacity .3s ease .4s;
 }
